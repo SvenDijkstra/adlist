@@ -1,4 +1,5 @@
 0.0.0.0 identify.hotjar.com
+0.0.0.0 events.hotjar.io
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.luckyorange.com
 0.0.0.0 cdn-test.mouseflow.com
